@@ -1,4 +1,4 @@
-22524795041708257
+22528206432926096
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -92505,6 +92505,13 @@ varistor
 2
 2
 eurorack
+1.27 SWD Programmer
+1x05, 1.27mm pitch, single row
+SWD
+0
+5
+5
+eurorack
 CLIFF-CL1390
 
 
@@ -92532,6 +92539,13 @@ LUM 1502-03
 0
 3
 3
+eurorack
+LUM 1502-03 LED
+
+
+0
+5
+5
 eurorack
 MB_USB
 Through hole straight socket strip, 1x05, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
